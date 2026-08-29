@@ -1,4 +1,4 @@
-// tb.v
+/// tb.v
 // Testbench for dut.v. This file is given -- do not modify it.
 // Works unchanged regardless of which implementation is currently active
 // inside dut.v. The waveform filename (vcd_file) is supplied externally

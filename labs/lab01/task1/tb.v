@@ -9,7 +9,7 @@ module tb;
 
   FA_Gate DUT (
     .a    (t_a),
-    .b    (t_b),
+    .b    (t_b),     
     .cin  (t_cin),
     .sum  (t_sum),
     .cout (t_cout)
