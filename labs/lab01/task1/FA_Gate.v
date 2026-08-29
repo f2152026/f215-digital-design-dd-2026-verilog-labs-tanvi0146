@@ -22,6 +22,4 @@ xor (sum, cin, ps);
 and (pc1, a, b);
 xor (ps, a, b);
 
-
-
 endmodule
